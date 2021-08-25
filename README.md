@@ -11,13 +11,13 @@
 ### First time user flow
 <div height='600px'>
  
-![login](/login.gif)
+<img src="/login.gif" width="300" height="600"/>
  
 </div>
 
 ### Swiping
 <div height='600px'>
  
- ![swiping](/swiping.gif)
+ <img src="/swiping.gif" width="300" height="600"/>
  
 </div>
