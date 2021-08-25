@@ -15,7 +15,7 @@
  
 </div>
 
-### Swiping
+### Swiping - (had to reduce frame rate due to file size limit on Github)
 <div height='600px'>
  
  <img src="/swiping.gif" width="300" height="600"/>
