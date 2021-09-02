@@ -21,3 +21,10 @@
  <img src="/swiping.gif" width="300" height="600"/>
  
 </div>
+
+### Loved & Maybe Lists
+<div height='500px'>
+ 
+ <img src="/loved_maybe.gif" width="300" height="600" />
+ 
+</div>
