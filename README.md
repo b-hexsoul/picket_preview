@@ -12,7 +12,7 @@
 - Utilized Mongoose ORM to develop schemas for MongoDB.
 - Built API with RESTful design on a Node.js / Express backend. 
 - React Native application through Expo CLI using Firebase Auth and integrating a 3rd party API.
-- Refactored and debugged multiple components and app architecture, first mplemented Redux with hooks for global state management. Then refactored into Redux Toolkit. 
+- Refactored and debugged multiple components and app architecture, first mplemented Redux with hooks for global state management. Then refactored into Redux Toolkit. Currently refactored navigation to ease implementation of Deep Linking feature.
 - Taking ownership of product offering suggestions on new features and communicating technical challenges with PM. 
 
 #### Code is private at this time. Some snippets provided below. 
