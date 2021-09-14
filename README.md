@@ -42,7 +42,7 @@
   <img src='/lovedList.png' width='auto' height='500'>
 </div>
 
-### Undo Implementation
+### Undo Implementation - Github required heavily reduced framerate
 
 <div height='500px' style="display: flex">
   <img src='/undoFeature.gif' width="300" height="auto" />
