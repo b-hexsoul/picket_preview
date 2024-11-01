@@ -1,4 +1,5 @@
 # Contract Software Developer
+This repo is to showcase a preview of my current previous work. Main codebase is private to public viewing.
 
 ## Language/Frameworks/Tech used:
 
